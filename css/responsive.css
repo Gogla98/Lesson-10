@@ -1,0 +1,194 @@
+@media (max-width: 1150px) {
+    .head {
+        max-width: 950px;
+        width: 100%;
+    }
+    form {
+        max-width: 950px;
+        width: 100%;
+    }
+    textarea {
+        width: 550px;
+    }
+    .contact {
+        max-width: 950px;
+        width: 100%;
+    }
+    .pictures {
+        max-width: 950px;
+        width: 100%;
+    }
+    .img {
+        width: 31%;
+    }
+    .footer-div {
+        max-width: 950px;
+        width: 100%;
+    }
+}
+@media (max-width: 980px) {
+    .head {
+        max-width: 850px;
+        width: 90%;
+    }
+    form {
+        max-width: 850px;
+        width: 90%;
+    }
+    textarea {
+        width: 450px;
+    }
+    .contact {
+        max-width: 850px;
+        width: 90%;
+    }
+    .pictures {
+        max-width: 850px;
+        width: 90%;
+    }
+    .img {
+        width: 31%;
+    }
+    .footer-div {
+        max-width: 850px;
+        width: 90%;
+    }
+}
+@media (max-width: 900px) {
+    .footer-div {
+        max-width: 800px;
+        width: 90%;
+    }
+    textarea {
+        width: 430px;
+        height: 220px;
+    }
+    .input-form {
+        width: 250px;
+        height: 40px;
+    }
+    button {
+        width: 250px;
+        height: 40px;
+    }
+    .links {
+        width: 440px;
+    }
+}
+@media (max-width: 800px) {
+    .h2 {
+        font-size: 35px;
+    }
+    .head {
+        max-width: 700px;
+        width: 100%;
+    }
+    form {
+        max-width: 700px;
+        width: 100%;
+    }
+    .input-form {
+        width: 252px;
+        height: 40px;
+    }
+    button {
+        width: 252px;
+        height: 40px;
+    }
+    textarea {
+        width: 380px;
+        height: 220px;
+    }
+    .contact {
+        max-width: 700px;
+        width: 100%;
+    }
+    .pictures {
+        max-width: 700px;
+        width: 100%;
+    }
+    .img {
+        width: 31%;
+    }
+    .footer-div {
+        max-width: 700px;
+        width: 100%;
+    }
+    .footer-div1 {
+        max-width: 260px;
+        width: 200px;
+    }
+    .links {
+        max-width: 420px;
+        width: 100%;
+    }
+}
+@media (max-width: 768px) {
+    .h2 {
+        font-size: 30px;
+    }
+    .p-text {
+        font-size: 10px;
+    }
+    ::placeholder {
+        font-size: 10px;
+    }
+    button {
+        font-size: 10px;
+    }
+    .paragraph {
+        font-size: 14px;
+    }
+    .p-text1 {
+        font-size: 11.5px;
+    }
+    .p-text2 {
+        font-size: 11.5px;
+    }
+    .h3 {
+        font-size: 18px;
+    }
+    .head {
+        max-width: 700px;
+        width: 100%;
+    }
+    form {
+        max-width: 700px;
+        width: 100%;
+    }
+    .input-form {
+        width: 252px;
+        height: 40px;
+    }
+    button {
+        width: 252px;
+        height: 40px;
+    }
+    textarea {
+        width: 380px;
+        height: 220px;
+    }
+    .contact {
+        max-width: 700px;
+        width: 100%;
+    }
+    .pictures {
+        max-width: 700px;
+        width: 100%;
+    }
+    .img {
+        width: 31%;
+    }
+    .footer-div {
+        max-width: 700px;
+        width: 100%;
+    }
+    .footer-div1 {
+        max-width: 260px;
+        width: 200px;
+    }
+    .links {
+        max-width: 420px;
+        width: 100%;
+    }
+}
